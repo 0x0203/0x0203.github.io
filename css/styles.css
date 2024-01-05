@@ -1,0 +1,105 @@
+		
+		body {
+			background-color: #333333;
+			/*background-image: url("../images/bg_green.jpg");*/
+			background-repeat: no-repeat;
+			background-position:left top;
+			/*background-attachment:fixed;*/
+		}
+
+		h1 {
+			color:#1D9BBB;
+			font-size:18;
+			font-family:"Times New Roman";
+			line-height:1;
+		}
+		p {
+			font-family:"Times New Roman";
+			font-size:16px;
+			color:#67908E;
+		}
+		b {
+			color:#09928F;
+		}
+		p.small{
+			font-family:"Helvetica";
+			font-size:10px;
+			color:#1D9BBB;
+		}
+		h2 {
+			color:#1D9BBB;
+			font-family:"Times New Roman";
+			font-size:32;
+		}
+		h3 {
+			color:#909BAA;
+			font-size:16;
+		}
+		p {
+			font-family:"Times New Roman";
+			font-size:14px;
+			color:#67908D;
+		}
+		a:link {
+			font-family:"Times New ROman";
+			font-size:14px;
+			color: #7a7a9a;
+			text-decoration: none;
+		}
+		a:visited {
+			font-family:"Times New ROman";
+			font-size:14px;
+			color: #7a7a7a;
+			text-decoration: none;
+		}
+		a:active {
+			font-family:"Times New ROman";
+			font-size:14px;
+			color: #7a7a7a;
+			text-decoration: none;
+		}
+		a:hover {
+			font-family:"Times New ROman";
+			font-size:14px;
+			color: #7a7a7a;
+			text-decoration: underline overline;
+			
+		}
+		ul {
+			font-family:"Times New Roman";
+			font-size:14px;
+			color:#80C78A;
+		}
+		li {
+			font-family:"Times New Roman";
+			font-size:14px;
+			color:#67908F;
+		}
+		
+		hr {
+			color:#003607;
+			height:2px;
+			background-color:#003607;
+			width:80%;
+			border:0;
+		}
+		
+		img.right {
+			border:0;
+			float:right;
+			padding-left:10px;
+			vertical-align:text-top;
+		}
+		img.left {
+			border:0;
+			float:left;
+			padding-right:10px;
+			vertical-align:text-top;
+		}
+		img.center {
+			border:0;
+			float:center;
+			vertical-align:text-top;
+		}
+		
+		
